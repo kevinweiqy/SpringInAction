@@ -12,4 +12,10 @@ public class StudentController {
         System.out.println("heoo");
 
     }
+
+    @Test
+    public void test2() {
+        System.out.println("fuck you git ");
+
+    }
 }
