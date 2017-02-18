@@ -21,4 +21,10 @@ public class StudentController {
         System.out.println("fuck you git ");
 
     }
+
+    @Test
+    public void test3() {
+        System.out.println("mai kuraki");
+
+    }
 }
